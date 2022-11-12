@@ -22,4 +22,4 @@ Connect with me:
 https://www.linkedin.com/in/rajat-singh-836164120
 
 Languages and Tools:
-JAVA ,SQL ,MYSQL ,Hibernate, spring,Spring-boot,Spring security
+Java ,MYSQL,Hibernate,Spring,Springboot,Spring Security
